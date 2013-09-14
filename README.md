@@ -67,3 +67,6 @@ DONE
 ---
 
 Copyright John Barton 2009
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/szines/geonames-rails-original/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
